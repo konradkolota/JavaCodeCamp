@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DzienSzosty_UkladSloneczny:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DzienSzosty_UkladSloneczny_jar</output-path>
+    <root id="archive" name="DzienSzosty_UkladSloneczny.jar">
+      <element id="module-output" name="DzienSzosty_UkladSloneczny" />
+    </root>
+  </artifact>
+</component>
